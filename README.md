@@ -52,14 +52,26 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlfonsoAcosta28&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoAcosta28&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-seven-rust-29.vercel.app/api?username=AlfonsoAcosta28&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-seven-rust-29.vercel.app/api/top-langs/?username=AlfonsoAcosta28&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlfonsoAcosta28&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+---
+
+### 📌 Proyectos destacados
+
+<p align="center">
+  <a href="https://github.com/AlfonsoAcosta28/AIThor">
+    <img src="https://github-readme-stats-seven-rust-29.vercel.app/api/pin/?username=AlfonsoAcosta28&repo=AIThor&theme=default&hide_border=true" alt="Proyecto 1"/>
+  </a>
+  <a href="https://github.com/AlfonsoAcosta28/TECNM_Automatas_AppMaquinaDeTuring">
+    <img src="https://github-readme-stats-seven-rust-29.vercel.app/api/pin/?username=AlfonsoAcosta28&repo=TECNM_Automatas_AppMaquinaDeTuring&theme=default&hide_border=true" alt="Proyecto 2"/>
+  </a>
+</p>
 
 ---
 
